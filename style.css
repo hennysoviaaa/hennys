@@ -6,6 +6,8 @@ h2 {
   font-family: Caveat;
 }
 
+}
+
 h3 {
   font-family: Caveat;
 }
@@ -14,8 +16,6 @@ p {
   font-family: Montserrat;
 }
 
-body {
-  background-color: lightcoral;
 }
 .logo {
   width: 200px;
